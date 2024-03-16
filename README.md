@@ -67,7 +67,9 @@ blackList | no | [] | array | Fill this array with capitalized short codes of th
 className | no | '' | string | Class name ex: `form-control`
 placeholder | no | 'Select Country' | string | The placeholder text for country select
 autocomplete | no | false | boolean | Set to true to enable browser to automatically fill out the country.
+returnValue | no | 'country' | string | 'country' to return the Country Name, 'shortcode' to return the Country Short Code, 'callingcode' to return the Country calling code
 shortCodeDropdown | no | false | boolean | Use this to have dropdown text display as short codes
+showCallingCode | no | false | boolean | Use this to have dropdown text display the country's calling code 
 usei18n | no | true | boolean | Set to false if using i18n and want to disable for this component
 disablePlaceholder | no | false | boolean | Set to true to make placeholder non-selectable
 removePlaceholder | no | false | boolean | Set to true to remove placeholder all together, this will autoselect first in list automatically

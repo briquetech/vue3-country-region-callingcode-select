@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     {{"country: " + country}}
-    <country-select v-model="country" :country="country" topCountry="United Kingdom" :countryName="true" />
+    <country-select v-model="country" :country="country" topCountry="India" :countryName="true" />
     {{"region: " + region}}
     <region-select v-model="region" :country="country" :region="region" :countryName="true" :regionName="true" />
   </div>
@@ -19,15 +19,15 @@ export default {
     RegionSelect
   },
   data: () => ({
-    country: 'United Kingdom',
-    region: 'West Lothian (Linlithgowshire)'
+    country: 'India',
+    region: 'Maharashtra'
   })
 }
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

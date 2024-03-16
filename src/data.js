@@ -1,7 +1,8 @@
 export default [
   {
     "countryName": "Afghanistan",
-    "countryShortCode": "AF",
+	"countryShortCode": "AF",
+	"countryCallingCode": "+93",
     "regions": [
       {
         "name": "Badakhshan",
@@ -143,7 +144,8 @@ export default [
   },
   {
     "countryName": "Åland Islands",
-    "countryShortCode": "AX",
+	"countryShortCode": "AX",
+	"countryCallingCode": "",
     "regions": [
       {
         "name": "Brändö",
@@ -214,6 +216,7 @@ export default [
   {
     "countryName": "Albania",
     "countryShortCode": "AL",
+	"countryCallingCode": "+355",
     "regions": [
       {
         "name": "Berat",
@@ -268,6 +271,7 @@ export default [
   {
     "countryName": "Algeria",
     "countryShortCode": "DZ",
+	"countryCallingCode": "+213",
     "regions": [
       {
         "name": "Adrar",
@@ -466,6 +470,7 @@ export default [
   {
     "countryName": "American Samoa",
     "countryShortCode": "AS",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Tutuila",
@@ -496,6 +501,7 @@ export default [
   {
     "countryName": "Andorra",
     "countryShortCode": "AD",
+	"countryCallingCode": "+376",
     "regions": [
       {
         "name": "Andorra la Vella",
@@ -530,6 +536,7 @@ export default [
   {
     "countryName": "Angola",
     "countryShortCode": "AO",
+	"countryCallingCode": "+244",
     "regions": [
       {
         "name": "Bengo",
@@ -608,6 +615,7 @@ export default [
   {
     "countryName": "Anguilla",
     "countryShortCode": "AI",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Anguilla",
@@ -702,6 +710,7 @@ export default [
   {
     "countryName": "Antarctica",
     "countryShortCode": "AQ",
+	"countryCallingCode": "+672",
     "regions": [
       {
         "name": "Antarctica",
@@ -712,6 +721,7 @@ export default [
   {
     "countryName": "Antigua and Barbuda",
     "countryShortCode": "AG",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Antigua Island",
@@ -846,6 +856,7 @@ export default [
   {
     "countryName": "Argentina",
     "countryShortCode": "AR",
+	"countryCallingCode": "+54",
     "regions": [
       {
         "name": "Buenos Aires",
@@ -948,6 +959,7 @@ export default [
   {
     "countryName": "Armenia",
     "countryShortCode": "AM",
+	"countryCallingCode": "+374",
     "regions": [
       {
         "name": "Aragatsotn",
@@ -998,6 +1010,7 @@ export default [
   {
     "countryName": "Aruba",
     "countryShortCode": "AW",
+	"countryCallingCode": "+297",
     "regions": [
       {
         "name": "Aruba",
@@ -1008,6 +1021,7 @@ export default [
   {
     "countryName": "Australia",
     "countryShortCode": "AU",
+	"countryCallingCode": "+61",
     "regions": [
       {
         "name": "Australian Capital Territory",
@@ -1046,6 +1060,7 @@ export default [
   {
     "countryName": "Austria",
     "countryShortCode": "AT",
+	"countryCallingCode": "+43",
     "regions": [
       {
         "name": "Burgenland",
@@ -1088,6 +1103,7 @@ export default [
   {
     "countryName": "Azerbaijan",
     "countryShortCode": "AZ",
+	"countryCallingCode": "+994",
     "regions": [
       {
         "name": "Abşeron",
@@ -1362,6 +1378,7 @@ export default [
   {
     "countryName": "Bahamas",
     "countryShortCode": "BS",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Acklins Island",
@@ -1504,6 +1521,7 @@ export default [
   {
     "countryName": "Bahrain",
     "countryShortCode": "BH",
+	"countryCallingCode": "+973",
     "regions": [
       {
         "name": "Al Janūbīyah",
@@ -1530,6 +1548,7 @@ export default [
   {
     "countryName": "Bangladesh",
     "countryShortCode": "BD",
+	"countryCallingCode": "+880",
     "regions": [
       {
         "name": "Barisal",
@@ -1568,6 +1587,7 @@ export default [
   {
     "countryName": "Barbados",
     "countryShortCode": "BB",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Christ Church",
@@ -1618,6 +1638,7 @@ export default [
   {
     "countryName": "Belarus",
     "countryShortCode": "BY",
+	"countryCallingCode": "+375",
     "regions": [
       {
         "name": "Brest voblast",
@@ -1652,6 +1673,7 @@ export default [
   {
     "countryName": "Belgium",
     "countryShortCode": "BE",
+	"countryCallingCode": "+32",
     "regions": [
       {
         "name": "Bruxelles-Capitale",
@@ -1670,6 +1692,7 @@ export default [
   {
     "countryName": "Belize",
     "countryShortCode": "BZ",
+	"countryCallingCode": "+501",
     "regions": [
       {
         "name": "Belize District",
@@ -1700,6 +1723,7 @@ export default [
   {
     "countryName": "Benin",
     "countryShortCode": "BJ",
+	"countryCallingCode": "+229",
     "regions": [
       {
         "name": "Alibori",
@@ -1754,6 +1778,7 @@ export default [
   {
     "countryName": "Bermuda",
     "countryShortCode": "BM",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "City of Hamilton",
@@ -1804,6 +1829,7 @@ export default [
   {
     "countryName": "Bhutan",
     "countryShortCode": "BT",
+	"countryCallingCode": "+975",
     "regions": [
       {
         "name": "Bumthang",
@@ -1890,6 +1916,7 @@ export default [
   {
     "countryName": "Bolivia",
     "countryShortCode": "BO",
+	"countryCallingCode": "+591",
     "regions": [
       {
         "name": "Beni",
@@ -1932,6 +1959,7 @@ export default [
   {
     "countryName": "Bonaire, Sint Eustatius and Saba",
     "countryShortCode": "BQ",
+	"countryCallingCode": "+31",
     "regions": [
       {
         "name": "Bonaire",
@@ -1950,6 +1978,7 @@ export default [
   {
     "countryName": "Bosnia and Herzegovina",
     "countryShortCode": "BA",
+	"countryCallingCode": "+387",
     "regions": [
       {
         "name": "Brčko Distrikt",
@@ -1968,6 +1997,7 @@ export default [
   {
     "countryName": "Botswana",
     "countryShortCode": "BW",
+	"countryCallingCode": "+267",
     "regions": [
       {
         "name": "Central",
@@ -2010,6 +2040,7 @@ export default [
   {
     "countryName": "Bouvet Island",
     "countryShortCode": "BV",
+	"countryCallingCode": "+47",
     "regions": [
       {
         "name": "Bouvet Island",
@@ -2020,6 +2051,7 @@ export default [
   {
     "countryName": "Brazil",
     "countryShortCode": "BR",
+	"countryCallingCode": "+55",
     "regions": [
       {
         "name": "Acre",
@@ -2134,6 +2166,7 @@ export default [
   {
     "countryName": "British Indian Ocean Territory",
     "countryShortCode": "IO",
+	"countryCallingCode": "+246",
     "regions": [
       {
         "name": "British Indian Ocean Territory",
@@ -2142,8 +2175,9 @@ export default [
     ]
   },
   {
-    "countryName": "Brunei Darussalam",
+    "countryName": "Brunei",
     "countryShortCode": "BN",
+	"countryCallingCode": "+673",
     "regions": [
       {
         "name": "Belait",
@@ -2166,6 +2200,7 @@ export default [
   {
     "countryName": "Bulgaria",
     "countryShortCode": "BG",
+	"countryCallingCode": "+359",
     "regions": [
       {
         "name": "Blagoevgrad",
@@ -2284,6 +2319,7 @@ export default [
   {
     "countryName": "Burkina Faso",
     "countryShortCode": "BF",
+	"countryCallingCode": "+226",
     "regions": [
       {
         "name": "Balé",
@@ -2470,6 +2506,7 @@ export default [
   {
     "countryName": "Burundi",
     "countryShortCode": "BI",
+	"countryCallingCode": "+257",
     "regions": [
       {
         "name": "Bubanza",
@@ -2544,6 +2581,7 @@ export default [
   {
     "countryName": "Cambodia",
     "countryShortCode": "KH",
+	"countryCallingCode": "+855",
     "regions": [
       {
         "name": "Baat Dambang",
@@ -2650,6 +2688,7 @@ export default [
   {
     "countryName": "Cameroon",
     "countryShortCode": "CM",
+	"countryCallingCode": "+237",
     "regions": [
       {
         "name": "Adamaoua",
@@ -2696,6 +2735,7 @@ export default [
   {
     "countryName": "Canada",
     "countryShortCode": "CA",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Alberta",
@@ -2754,6 +2794,7 @@ export default [
   {
     "countryName": "Cape Verde",
     "countryShortCode": "CV",
+	"countryCallingCode": "+238",
     "regions": [
       {
         "name": "Boa Vista",
@@ -2836,6 +2877,7 @@ export default [
   {
     "countryName": "Cayman Islands",
     "countryShortCode": "KY",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Creek"
@@ -2866,6 +2908,7 @@ export default [
   {
     "countryName": "Central African Republic",
     "countryShortCode": "CF",
+	"countryCallingCode": "+236",
     "regions": [
       {
         "name": "Bamingui-Bangoran",
@@ -2940,6 +2983,7 @@ export default [
   {
     "countryName": "Chad",
     "countryShortCode": "TD",
+	"countryCallingCode": "+235",
     "regions": [
       {
         "name": "Bahr el Ghazal",
@@ -3034,6 +3078,7 @@ export default [
   {
     "countryName": "Chile",
     "countryShortCode": "CL",
+	"countryCallingCode": "+56",
     "regions": [
       {
         "name": "Aisén del General Carlos Ibáñez del Campo",
@@ -3108,6 +3153,7 @@ export default [
   {
     "countryName": "China",
     "countryShortCode": "CN",
+	"countryCallingCode": "+86",
     "regions": [
       {
         "name": "Anhui",
@@ -3246,6 +3292,7 @@ export default [
   {
     "countryName": "Christmas Island",
     "countryShortCode": "CX",
+	"countryCallingCode": "+61",
     "regions": [
       {
         "name": "Christmas Island",
@@ -3256,6 +3303,7 @@ export default [
   {
     "countryName": "Cocos (Keeling) Islands",
     "countryShortCode": "CC",
+	"countryCallingCode": "+61",
     "regions": [
       {
         "name": "Direction Island",
@@ -3286,6 +3334,7 @@ export default [
   {
     "countryName": "Colombia",
     "countryShortCode": "CO",
+	"countryCallingCode": "+57",
     "regions": [
       {
         "name": "Amazonas",
@@ -3424,6 +3473,7 @@ export default [
   {
     "countryName": "Comoros",
     "countryShortCode": "KM",
+	"countryCallingCode": "+269",
     "regions": [
       {
         "name": "Andjazîdja",
@@ -3442,6 +3492,7 @@ export default [
   {
     "countryName": "Congo, Republic of the (Brazzaville)",
     "countryShortCode": "CG",
+	"countryCallingCode": "+242",
     "regions": [
       {
         "name": "Bouenza",
@@ -3496,6 +3547,7 @@ export default [
   {
     "countryName": "Congo, the Democratic Republic of the (Kinshasa)",
     "countryShortCode": "CD",
+	"countryCallingCode": "+243",
     "regions": [
       {
         "name": "Bandundu",
@@ -3546,6 +3598,7 @@ export default [
   {
     "countryName": "Cook Islands",
     "countryShortCode": "CK",
+	"countryCallingCode": "+682",
     "regions": [
       {
         "name": "Aitutaki"
@@ -3588,6 +3641,7 @@ export default [
   {
     "countryName": "Costa Rica",
     "countryShortCode": "CR",
+	"countryCallingCode": "+506",
     "regions": [
       {
         "name": "Alajuela",
@@ -3620,8 +3674,9 @@ export default [
     ]
   },
   {
-    "countryName": "Côte d'Ivoire, Republic of",
+    "countryName": "Ivory Coast",
     "countryShortCode": "CI",
+	"countryCallingCode": "+225",
     "regions": [
       {
         "name": "Agnéby",
@@ -3704,6 +3759,7 @@ export default [
   {
     "countryName": "Croatia",
     "countryShortCode": "HR",
+	"countryCallingCode": "+385",
     "regions": [
       {
         "name": "Bjelovarsko-Bilogorska Županija",
@@ -3794,6 +3850,7 @@ export default [
   {
     "countryName": "Cuba",
     "countryShortCode": "CU",
+	"countryCallingCode": "+53",
     "regions": [
       {
         "name": "Artemisa",
@@ -3864,6 +3921,7 @@ export default [
   {
     "countryName": "Curaçao",
     "countryShortCode": "CW",
+	"countryCallingCode": "+599",
     "regions": [
       {
         "name": "Curaçao",
@@ -3874,6 +3932,7 @@ export default [
   {
     "countryName": "Cyprus",
     "countryShortCode": "CY",
+	"countryCallingCode": "+357",
     "regions": [
       {
         "name": "Ammochostos",
@@ -3904,6 +3963,7 @@ export default [
   {
     "countryName": "Czech Republic",
     "countryShortCode": "CZ",
+	"countryCallingCode": "+420",
     "regions": [
       {
         "name": "Hlavní město Praha",
@@ -3966,6 +4026,7 @@ export default [
   {
     "countryName": "Denmark",
     "countryShortCode": "DK",
+	"countryCallingCode": "+45",
     "regions": [
       {
         "name": "Hovedstaden",
@@ -4032,6 +4093,7 @@ export default [
   {
     "countryName": "Djibouti",
     "countryShortCode": "DJ",
+	"countryCallingCode": "+253",
     "regions": [
       {
         "name": "Ali Sabieh",
@@ -4058,6 +4120,7 @@ export default [
   {
     "countryName": "Dominica",
     "countryShortCode": "DM",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Saint Andrew Parish",
@@ -4104,6 +4167,7 @@ export default [
   {
     "countryName": "Dominican Republic",
     "countryShortCode": "DO",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Cibao Central",
@@ -4146,6 +4210,7 @@ export default [
   {
     "countryName": "Ecuador",
     "countryShortCode": "EC",
+	"countryCallingCode": "+593",
     "regions": [
       {
         "name": "Azuay",
@@ -4248,6 +4313,7 @@ export default [
   {
     "countryName": "Egypt",
     "countryShortCode": "EG",
+	"countryCallingCode": "+20",
     "regions": [
       {
         "name": "Alexandria",
@@ -4370,6 +4436,7 @@ export default [
   {
     "countryName": "El Salvador",
     "countryShortCode": "SV",
+	"countryCallingCode": "+503",
     "regions": [
       {
         "name": "Ahuachapán",
@@ -4432,6 +4499,7 @@ export default [
   {
     "countryName": "Equatorial Guinea",
     "countryShortCode": "GQ",
+	"countryCallingCode": "+240",
     "regions": [
       {
         "name": "Annobón",
@@ -4466,6 +4534,7 @@ export default [
   {
     "countryName": "Eritrea",
     "countryShortCode": "ER",
+	"countryCallingCode": "+291",
     "regions": [
       {
         "name": "Anseba",
@@ -4496,6 +4565,7 @@ export default [
   {
     "countryName": "Estonia",
     "countryShortCode": "EE",
+	"countryCallingCode": "+372",
     "regions": [
       {
         "name": "Harjumaa (Tallinn)",
@@ -4562,6 +4632,7 @@ export default [
   {
     "countryName": "Ethiopia",
     "countryShortCode": "ET",
+	"countryCallingCode": "+251",
     "regions": [
       {
         "name": "Addis Ababa",
@@ -4612,6 +4683,7 @@ export default [
   {
     "countryName": "Falkland Islands (Islas Malvinas)",
     "countryShortCode": "FK",
+	"countryCallingCode": "+500",
     "regions": [
       {
         "name": "Falkland Islands (Islas Malvinas)"
@@ -4621,6 +4693,7 @@ export default [
   {
     "countryName": "Faroe Islands",
     "countryShortCode": "FO",
+	"countryCallingCode": "+298",
     "regions": [
       {
         "name": "Bordoy"
@@ -4654,6 +4727,7 @@ export default [
   {
     "countryName": "Fiji",
     "countryShortCode": "FJ",
+	"countryCallingCode": "+679",
     "regions": [
       {
         "name": "Ba",
@@ -4720,6 +4794,7 @@ export default [
   {
     "countryName": "Finland",
     "countryShortCode": "FI",
+	"countryCallingCode": "+358",
     "regions": [
       {
         "name": "Ahvenanmaan lääni",
@@ -4750,6 +4825,7 @@ export default [
   {
     "countryName": "France",
     "countryShortCode": "FR",
+	"countryCallingCode": "+33",
     "regions": [
       {
         "name": "Auvergne-Rhône-Alpes",
@@ -4860,6 +4936,7 @@ export default [
   {
     "countryName": "French Guiana",
     "countryShortCode": "GF",
+	"countryCallingCode": "+33",
     "regions": [
       {
         "name": "French Guiana"
@@ -4869,6 +4946,7 @@ export default [
   {
     "countryName": "French Polynesia",
     "countryShortCode": "PF",
+	"countryCallingCode": "+689",
     "regions": [
       {
         "name": "Archipel des Marquises"
@@ -4890,6 +4968,7 @@ export default [
   {
     "countryName": "French Southern and Antarctic Lands",
     "countryShortCode": "TF",
+	"countryCallingCode": "+33",
     "regions": [
       {
         "name": "Adelie Land"
@@ -4908,6 +4987,7 @@ export default [
   {
     "countryName": "Gabon",
     "countryShortCode": "GA",
+	"countryCallingCode": "+241",
     "regions": [
       {
         "name": "Estuaire",
@@ -4950,6 +5030,7 @@ export default [
   {
     "countryName": "Gambia, The",
     "countryShortCode": "GM",
+	"countryCallingCode": "+220",
     "regions": [
       {
         "name": "Banjul",
@@ -4980,6 +5061,7 @@ export default [
   {
     "countryName": "Georgia",
     "countryShortCode": "GE",
+	"countryCallingCode": "+995",
     "regions": [
       {
         "name": "Abkhazia (Sokhumi)",
@@ -5034,6 +5116,7 @@ export default [
   {
     "countryName": "Germany",
     "countryShortCode": "DE",
+	"countryCallingCode": "+49",
     "regions": [
       {
         "name": "Baden-Württemberg",
@@ -5104,6 +5187,7 @@ export default [
   {
     "countryName": "Ghana",
     "countryShortCode": "GH",
+	"countryCallingCode": "+233",
     "regions": [
       {
         "name": "Ahafo"
@@ -5167,6 +5251,7 @@ export default [
   {
     "countryName": "Gibraltar",
     "countryShortCode": "GI",
+	"countryCallingCode": "+350",
     "regions": [
       {
         "name": "Gibraltar"
@@ -5176,6 +5261,7 @@ export default [
   {
     "countryName": "Greece",
     "countryShortCode": "GR",
+	"countryCallingCode": "+30",
     "regions": [
       {
         "name": "Anatolikí Makedonía kai Thráki",
@@ -5238,6 +5324,7 @@ export default [
   {
     "countryName": "Greenland",
     "countryShortCode": "GL",
+	"countryCallingCode": "+299",
     "regions": [
       {
         "name": "Kommune Kujalleq",
@@ -5260,6 +5347,7 @@ export default [
   {
     "countryName": "Grenada",
     "countryShortCode": "GD",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Saint Andrew",
@@ -5294,6 +5382,7 @@ export default [
   {
     "countryName": "Guadeloupe",
     "countryShortCode": "GP",
+	"countryCallingCode": "+33",
     "regions": [
       {
         "name": "Guadeloupe"
@@ -5303,6 +5392,7 @@ export default [
   {
     "countryName": "Guam",
     "countryShortCode": "GU",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Guam"
@@ -5312,6 +5402,7 @@ export default [
   {
     "countryName": "Guatemala",
     "countryShortCode": "GT",
+	"countryCallingCode": "+502",
     "regions": [
       {
         "name": "Alta Verapaz",
@@ -5406,6 +5497,7 @@ export default [
   {
     "countryName": "Guernsey",
     "countryShortCode": "GG",
+	"countryCallingCode": "+44",
     "regions": [
       {
         "name": "Castel"
@@ -5442,6 +5534,7 @@ export default [
   {
     "countryName": "Guinea",
     "countryShortCode": "GN",
+	"countryCallingCode": "+224",
     "regions": [
       {
         "name": "Boké",
@@ -5480,6 +5573,7 @@ export default [
   {
     "countryName": "Guinea-Bissau",
     "countryShortCode": "GW",
+	"countryCallingCode": "+245",
     "regions": [
       {
         "name": "Bafatá",
@@ -5522,6 +5616,7 @@ export default [
   {
     "countryName": "Guyana",
     "countryShortCode": "GY",
+	"countryCallingCode": "+592",
     "regions": [
       {
         "name": "Barima-Waini",
@@ -5568,6 +5663,7 @@ export default [
   {
     "countryName": "Haiti",
     "countryShortCode": "HT",
+	"countryCallingCode": "+509",
     "regions": [
       {
         "name": "Artibonite",
@@ -5614,6 +5710,7 @@ export default [
   {
     "countryName": "Heard Island and McDonald Islands",
     "countryShortCode": "HM",
+	"countryCallingCode": "+61",
     "regions": [
       {
         "name": "Heard Island and McDonald Islands"
@@ -5621,11 +5718,12 @@ export default [
     ]
   },
   {
-    "countryName": "Holy See (Vatican City)",
+    "countryName": "Vatican City",
     "countryShortCode": "VA",
+	"countryCallingCode": "+379",
     "regions": [
       {
-        "name": "Holy See (Vatican City)",
+        "name": "Vatican City",
         "shortCode": "01"
       }
     ]
@@ -5633,6 +5731,7 @@ export default [
   {
     "countryName": "Honduras",
     "countryShortCode": "HN",
+	"countryCallingCode": "+504",
     "regions": [
       {
         "name": "Atlántida",
@@ -5711,6 +5810,7 @@ export default [
   {
     "countryName": "Hong Kong",
     "countryShortCode": "HK",
+	"countryCallingCode": "+852",
     "regions": [
       {
         "name": "Hong Kong",
@@ -5721,6 +5821,7 @@ export default [
   {
     "countryName": "Hungary",
     "countryShortCode": "HU",
+	"countryCallingCode": "+36",
     "regions": [
       {
         "name": "Bács-Kiskun",
@@ -5899,6 +6000,7 @@ export default [
   {
     "countryName": "Iceland",
     "countryShortCode": "IS",
+	"countryCallingCode": "+354",
     "regions": [
       {
         "name": "Austurland",
@@ -5937,6 +6039,7 @@ export default [
   {
     "countryName": "India",
     "countryShortCode": "IN",
+	"countryCallingCode": "+91",
     "regions": [
       {
         "name": "Andaman and Nicobar Islands",
@@ -6091,6 +6194,7 @@ export default [
   {
     "countryName": "Indonesia",
     "countryShortCode": "ID",
+	"countryCallingCode": "+62",
     "regions": [
       {
         "name": "Aceh",
@@ -6229,6 +6333,7 @@ export default [
   {
     "countryName": "Iran, Islamic Republic of",
     "countryShortCode": "IR",
+	"countryCallingCode": "+98",
     "regions": [
       {
         "name": "Alborz",
@@ -6359,6 +6464,7 @@ export default [
   {
     "countryName": "Iraq",
     "countryShortCode": "IQ",
+	"countryCallingCode": "+964",
     "regions": [
       {
         "name": "Al Anbār",
@@ -6437,6 +6543,7 @@ export default [
   {
     "countryName": "Ireland",
     "countryShortCode": "IE",
+	"countryCallingCode": "+353",
     "regions": [
       {
         "name": "Carlow",
@@ -6547,6 +6654,7 @@ export default [
   {
     "countryName": "Isle of Man",
     "countryShortCode": "IM",
+	"countryCallingCode": "+44",
     "regions": [
       {
         "name": "Isle of Man"
@@ -6556,6 +6664,7 @@ export default [
   {
     "countryName": "Israel",
     "countryShortCode": "IL",
+	"countryCallingCode": "+972",
     "regions": [
       {
         "name": "HaDarom",
@@ -6586,6 +6695,7 @@ export default [
   {
     "countryName": "Italy",
     "countryShortCode": "IT",
+	"countryCallingCode": "+39",
     "regions": [
       {
         "name": "Abruzzo",
@@ -6672,6 +6782,7 @@ export default [
   {
     "countryName": "Jamaica",
     "countryShortCode": "JM",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Clarendon",
@@ -6734,6 +6845,7 @@ export default [
   {
     "countryName": "Japan",
     "countryShortCode": "JP",
+	"countryCallingCode": "+81",
     "regions": [
       {
         "name": "Aichi",
@@ -6928,6 +7040,7 @@ export default [
   {
     "countryName": "Jersey",
     "countryShortCode": "JE",
+	"countryCallingCode": "+44",
     "regions": [
       {
         "name": "Jersey"
@@ -6937,6 +7050,7 @@ export default [
   {
     "countryName": "Jordan",
     "countryShortCode": "JO",
+	"countryCallingCode": "+962",
     "regions": [
       {
         "name": "‘Ajlūn",
@@ -6991,6 +7105,7 @@ export default [
   {
     "countryName": "Kazakhstan",
     "countryShortCode": "KZ",
+	"countryCallingCode": "+7",
     "regions": [
       {
         "name": "Almaty",
@@ -7060,6 +7175,7 @@ export default [
   {
     "countryName": "Kenya",
     "countryShortCode": "KE",
+	"countryCallingCode": "+254",
     "regions": [
       {
         "name": "Baringo",
@@ -7254,6 +7370,7 @@ export default [
   {
     "countryName": "Kiribati",
     "countryShortCode": "KI",
+	"countryCallingCode": "+686",
     "regions": [
       {
         "name": "Abaiang"
@@ -7344,6 +7461,7 @@ export default [
   {
     "countryName": "Korea, Democratic People's Republic of",
     "countryShortCode": "KP",
+	"countryCallingCode": "+850",
     "regions": [
       {
         "name": "Chagang-do (Chagang Province)",
@@ -7394,6 +7512,7 @@ export default [
   {
     "countryName": "Korea, Republic of",
     "countryShortCode": "KR",
+	"countryCallingCode": "+82",
     "regions": [
       {
         "name": "Ch'ungch'ongbuk-do",
@@ -7468,6 +7587,7 @@ export default [
   {
     "countryName": "Kuwait",
     "countryShortCode": "KW",
+	"countryCallingCode": "+965",
     "regions": [
       {
         "name": "Al Aḩmadi",
@@ -7498,6 +7618,7 @@ export default [
   {
     "countryName": "Kyrgyzstan",
     "countryShortCode": "KG",
+	"countryCallingCode": "+996",
     "regions": [
       {
         "name": "Batken Oblasty",
@@ -7536,6 +7657,7 @@ export default [
   {
     "countryName": "Laos",
     "countryShortCode": "LA",
+	"countryCallingCode": "+856",
     "regions": [
       {
         "name": "Attapu",
@@ -7610,6 +7732,7 @@ export default [
   {
     "countryName": "Latvia",
     "countryShortCode": "LV",
+	"countryCallingCode": "+371",
     "regions": [
       {
         "name": "Aglona",
@@ -8092,6 +8215,7 @@ export default [
   {
     "countryName": "Lebanon",
     "countryShortCode": "LB",
+	"countryCallingCode": "+961",
     "regions": [
       {
         "name": "Aakkâr",
@@ -8130,6 +8254,7 @@ export default [
   {
     "countryName": "Lesotho",
     "countryShortCode": "LS",
+	"countryCallingCode": "+266",
     "regions": [
       {
         "name": "Berea",
@@ -8176,6 +8301,7 @@ export default [
   {
     "countryName": "Liberia",
     "countryShortCode": "LR",
+	"countryCallingCode": "+231",
     "regions": [
       {
         "name": "Bomi",
@@ -8242,6 +8368,7 @@ export default [
   {
     "countryName": "Libya",
     "countryShortCode": "LY",
+	"countryCallingCode": "+218",
     "regions": [
       {
         "name": "Al Buţnān",
@@ -8336,6 +8463,7 @@ export default [
   {
     "countryName": "Liechtenstein",
     "countryShortCode": "LI",
+	"countryCallingCode": "+423",
     "regions": [
       {
         "name": "Balzers",
@@ -8386,6 +8514,7 @@ export default [
   {
     "countryName": "Lithuania",
     "countryShortCode": "LT",
+	"countryCallingCode": "+370",
     "regions": [
       {
         "name": "Alytaus",
@@ -8432,6 +8561,7 @@ export default [
   {
     "countryName": "Luxembourg",
     "countryShortCode": "LU",
+	"countryCallingCode": "+352",
     "regions": [
       {
         "name": "Capellen",
@@ -8484,8 +8614,9 @@ export default [
     ]
   },
   {
-    "countryName": "Macao",
+    "countryName": "Macau",
     "countryShortCode": "MO",
+	"countryCallingCode": "+853",
     "regions": [
       {
         "name": "Macao"
@@ -8495,6 +8626,7 @@ export default [
   {
     "countryName": "Macedonia, Republic of",
     "countryShortCode": "MK",
+	"countryCallingCode": "+389",
     "regions": [
       {
         "name": "Aračinovo",
@@ -8785,6 +8917,7 @@ export default [
   {
     "countryName": "Madagascar",
     "countryShortCode": "MG",
+	"countryCallingCode": "+261",
     "regions": [
       {
         "name": "Antananarivo",
@@ -8815,6 +8948,7 @@ export default [
   {
     "countryName": "Malawi",
     "countryShortCode": "MW",
+	"countryCallingCode": "+265",
     "regions": [
       {
         "name": "Balaka",
@@ -8929,6 +9063,7 @@ export default [
   {
     "countryName": "Malaysia",
     "countryShortCode": "MY",
+	"countryCallingCode": "+60",
     "regions": [
       {
         "name": "Johor",
@@ -8999,6 +9134,7 @@ export default [
   {
     "countryName": "Maldives",
     "countryShortCode": "MV",
+	"countryCallingCode": "+960",
     "regions": [
       {
         "name": "Alifu Alifu",
@@ -9089,6 +9225,7 @@ export default [
   {
     "countryName": "Mali",
     "countryShortCode": "ML",
+	"countryCallingCode": "+223",
     "regions": [
       {
         "name": "Bamako",
@@ -9131,6 +9268,7 @@ export default [
   {
     "countryName": "Malta",
     "countryShortCode": "MT",
+	"countryCallingCode": "+356",
     "regions": [
       {
         "name": "Attard",
@@ -9409,6 +9547,7 @@ export default [
   {
     "countryName": "Marshall Islands",
     "countryShortCode": "MH",
+	"countryCallingCode": "+692",
     "regions": [
       {
         "name": "Ailinglaplap",
@@ -9503,6 +9642,7 @@ export default [
   {
     "countryName": "Martinique",
     "countryShortCode": "MQ",
+	"countryCallingCode": "+33",
     "regions": [
       {
         "name": "Martinique"
@@ -9512,6 +9652,7 @@ export default [
   {
     "countryName": "Mauritania",
     "countryShortCode": "MR",
+	"countryCallingCode": "+222",
     "regions": [
       {
         "name": "Adrar",
@@ -9578,6 +9719,7 @@ export default [
   {
     "countryName": "Mauritius",
     "countryShortCode": "MU",
+	"countryCallingCode": "+230",
     "regions": [
       {
         "name": "Agalega Islands",
@@ -9648,6 +9790,7 @@ export default [
   {
     "countryName": "Mayotte",
     "countryShortCode": "YT",
+	"countryCallingCode": "+262",
     "regions": [
       {
         "name": "Dzaoudzi",
@@ -9722,6 +9865,7 @@ export default [
   {
     "countryName": "Mexico",
     "countryShortCode": "MX",
+	"countryCallingCode": "+52",
     "regions": [
       {
         "name": "Aguascalientes",
@@ -9856,6 +10000,7 @@ export default [
   {
     "countryName": "Micronesia, Federated States of",
     "countryShortCode": "FM",
+	"countryCallingCode": "+691",
     "regions": [
       {
         "name": "Chuuk (Truk)",
@@ -9878,6 +10023,7 @@ export default [
   {
     "countryName": "Moldova",
     "countryShortCode": "MD",
+	"countryCallingCode": "+373",
     "regions": [
       {
         "name": "Aenii Noi",
@@ -10032,6 +10178,7 @@ export default [
   {
     "countryName": "Monaco",
     "countryShortCode": "MC",
+	"countryCallingCode": "+377",
     "regions": [
       {
         "name": "Colle",
@@ -10106,6 +10253,7 @@ export default [
   {
     "countryName": "Mongolia",
     "countryShortCode": "MN",
+	"countryCallingCode": "+976",
     "regions": [
       {
         "name": "Arhangay",
@@ -10192,6 +10340,7 @@ export default [
   {
     "countryName": "Montenegro",
     "countryShortCode": "ME",
+	"countryCallingCode": "+382",
     "regions": [
       {
         "name": "Andrijevica",
@@ -10290,6 +10439,7 @@ export default [
   {
     "countryName": "Montserrat",
     "countryShortCode": "MS",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Saint Anthony"
@@ -10305,6 +10455,7 @@ export default [
   {
     "countryName": "Morocco",
     "countryShortCode": "MA",
+	"countryCallingCode": "+212",
     "regions": [
       {
         "name": "Chaouia-Ouardigha",
@@ -10371,6 +10522,7 @@ export default [
   {
     "countryName": "Mozambique",
     "countryShortCode": "MZ",
+	"countryCallingCode": "+258",
     "regions": [
       {
         "name": "Cabo Delgado",
@@ -10421,6 +10573,7 @@ export default [
   {
     "countryName": "Myanmar",
     "countryShortCode": "MM",
+	"countryCallingCode": "+95",
     "regions": [
       {
         "name": "Ayeyarwady",
@@ -10487,6 +10640,7 @@ export default [
   {
     "countryName": "Namibia",
     "countryShortCode": "NA",
+	"countryCallingCode": "+264",
     "regions": [
       {
         "name": "Erongo",
@@ -10549,6 +10703,7 @@ export default [
   {
     "countryName": "Nauru",
     "countryShortCode": "NR",
+	"countryCallingCode": "+674",
     "regions": [
       {
         "name": "Aiwo",
@@ -10611,6 +10766,7 @@ export default [
   {
     "countryName": "Nepal",
     "countryShortCode": "NP",
+	"countryCallingCode": "+977",
     "regions": [
       {
         "name": "Bagmati",
@@ -10673,6 +10829,7 @@ export default [
   {
     "countryName": "Netherlands",
     "countryShortCode": "NL",
+	"countryCallingCode": "+31",
     "regions": [
       {
         "name": "Drenthe",
@@ -10727,6 +10884,7 @@ export default [
   {
     "countryName": "New Caledonia",
     "countryShortCode": "NC",
+	"countryCallingCode": "+687",
     "regions": [
       {
         "name": "Iles Loyaute"
@@ -10742,6 +10900,7 @@ export default [
   {
     "countryName": "New Zealand",
     "countryShortCode": "NZ",
+	"countryCallingCode": "+64",
     "regions": [
       {
         "name": "Auckland",
@@ -10816,6 +10975,7 @@ export default [
   {
     "countryName": "Nicaragua",
     "countryShortCode": "NI",
+	"countryCallingCode": "+505",
     "regions": [
       {
         "name": "Boaco",
@@ -10890,6 +11050,7 @@ export default [
   {
     "countryName": "Niger",
     "countryShortCode": "NE",
+	"countryCallingCode": "+227",
     "regions": [
       {
         "name": "Agadez",
@@ -10928,6 +11089,7 @@ export default [
   {
     "countryName": "Nigeria",
     "countryShortCode": "NG",
+	"countryCallingCode": "+234",
     "regions": [
       {
         "name": "Abia",
@@ -11082,6 +11244,7 @@ export default [
   {
     "countryName": "Niue",
     "countryShortCode": "NU",
+	"countryCallingCode": "+683",
     "regions": [
       {
         "name": "Niue"
@@ -11091,6 +11254,7 @@ export default [
   {
     "countryName": "Norfolk Island",
     "countryShortCode": "NF",
+	"countryCallingCode": "+61",
     "regions": [
       {
         "name": "Norfolk Island"
@@ -11100,6 +11264,7 @@ export default [
   {
     "countryName": "Northern Mariana Islands",
     "countryShortCode": "MP",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Northern Islands"
@@ -11118,6 +11283,7 @@ export default [
   {
     "countryName": "Norway",
     "countryShortCode": "NO",
+	"countryCallingCode": "+47",
     "regions": [
       {
         "name": "Akershus",
@@ -11208,6 +11374,7 @@ export default [
   {
     "countryName": "Oman",
     "countryShortCode": "OM",
+	"countryCallingCode": "+968",
     "regions": [
       {
         "name": "Ad Dakhiliyah",
@@ -11258,6 +11425,7 @@ export default [
   {
     "countryName": "Pakistan",
     "countryShortCode": "PK",
+	"countryCallingCode": "+92",
     "regions": [
       {
         "name": "Āzād Kashmīr",
@@ -11296,6 +11464,7 @@ export default [
   {
     "countryName": "Palau",
     "countryShortCode": "PW",
+	"countryCallingCode": "+680",
     "regions": [
       {
         "name": "Aimeliik",
@@ -11366,6 +11535,7 @@ export default [
   {
     "countryName": "Palestine, State of",
     "countryShortCode": "PS",
+	"countryCallingCode": "+970",
     "regions": [
       {
         "name": "Ak Khalīl",
@@ -11436,6 +11606,7 @@ export default [
   {
     "countryName": "Panama",
     "countryShortCode": "PA",
+	"countryCallingCode": "+507",
     "regions": [
       {
         "name": "Bocas del Toro",
@@ -11494,6 +11665,7 @@ export default [
   {
     "countryName": "Papua New Guinea",
     "countryShortCode": "PG",
+	"countryCallingCode": "+675",
     "regions": [
       {
         "name": "Bougainville",
@@ -11588,6 +11760,7 @@ export default [
   {
     "countryName": "Paraguay",
     "countryShortCode": "PY",
+	"countryCallingCode": "+595",
     "regions": [
       {
         "name": "Alto Paraguay",
@@ -11662,6 +11835,7 @@ export default [
   {
     "countryName": "Peru",
     "countryShortCode": "PE",
+	"countryCallingCode": "+51",
     "regions": [
       {
         "name": "Amazonas",
@@ -11772,6 +11946,7 @@ export default [
   {
     "countryName": "Philippines",
     "countryShortCode": "PH",
+	"countryCallingCode": "+63",
     "regions": [
       {
         "name": "Abra",
@@ -12098,6 +12273,7 @@ export default [
   {
     "countryName": "Pitcairn",
     "countryShortCode": "PN",
+	"countryCallingCode": "+64",
     "regions": [
       {
         "name": "Pitcairn Islands"
@@ -12107,6 +12283,7 @@ export default [
   {
     "countryName": "Poland",
     "countryShortCode": "PL",
+	"countryCallingCode": "+48",
     "regions": [
       {
         "name": "Dolnośląskie",
@@ -12177,6 +12354,7 @@ export default [
   {
     "countryName": "Portugal",
     "countryShortCode": "PT",
+	"countryCallingCode": "+351",
     "regions": [
       {
         "name": "Açores",
@@ -12263,6 +12441,7 @@ export default [
   {
     "countryName": "Puerto Rico",
     "countryShortCode": "PR",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Adjuntas"
@@ -12488,6 +12667,7 @@ export default [
   {
     "countryName": "Qatar",
     "countryShortCode": "QA",
+	"countryCallingCode": "+974",
     "regions": [
       {
         "name": "Ad Dawḩah",
@@ -12522,6 +12702,7 @@ export default [
   {
     "countryName": "Réunion",
     "countryShortCode": "RE",
+	"countryCallingCode": "+262",
     "regions": [
       {
         "name": "Réunion"
@@ -12531,6 +12712,7 @@ export default [
   {
     "countryName": "Romania",
     "countryShortCode": "RO",
+	"countryCallingCode": "+40",
     "regions": [
       {
         "name": "Alba",
@@ -12701,6 +12883,7 @@ export default [
   {
     "countryName": "Russian Federation",
     "countryShortCode": "RU",
+	"countryCallingCode": "+7",
     "regions": [
       {
         "name": "Republic of Adygea",
@@ -13039,6 +13222,7 @@ export default [
   {
     "countryName": "Rwanda",
     "countryShortCode": "RW",
+	"countryCallingCode": "+250",
     "regions": [
       {
         "name": "Kigali",
@@ -13065,6 +13249,7 @@ export default [
   {
     "countryName": "Saint Barthélemy",
     "countryShortCode": "BL",
+	"countryCallingCode": "+590",
     "regions": [
       {
         "name": "Au Vent",
@@ -13079,6 +13264,7 @@ export default [
   {
     "countryName": "Saint Helena, Ascension and Tristan da Cunha",
     "countryShortCode": "SH",
+	"countryCallingCode": "+290",
     "regions": [
       {
         "name": "Ascension",
@@ -13097,6 +13283,7 @@ export default [
   {
     "countryName": "Saint Kitts and Nevis",
     "countryShortCode": "KN",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Saint Kitts",
@@ -13111,6 +13298,7 @@ export default [
   {
     "countryName": "Saint Lucia",
     "countryShortCode": "LC",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Anse-la-Raye",
@@ -13157,6 +13345,7 @@ export default [
   {
     "countryName": "Saint Martin",
     "countryShortCode": "MF",
+	"countryCallingCode": "+590",
     "regions": [
       {
         "name": "Saint Martin"
@@ -13166,6 +13355,7 @@ export default [
   {
     "countryName": "Saint Pierre and Miquelon",
     "countryShortCode": "PM",
+	"countryCallingCode": "+508",
     "regions": [
       {
         "name": "Miquelon"
@@ -13178,6 +13368,7 @@ export default [
   {
     "countryName": "Saint Vincent and the Grenadines",
     "countryShortCode": "VC",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Charlotte",
@@ -13208,6 +13399,7 @@ export default [
   {
     "countryName": "Samoa",
     "countryShortCode": "WS",
+	"countryCallingCode": "+685",
     "regions": [
       {
         "name": "A'ana",
@@ -13258,6 +13450,7 @@ export default [
   {
     "countryName": "San Marino",
     "countryShortCode": "SM",
+	"countryCallingCode": "+378",
     "regions": [
       {
         "name": "Acquaviva",
@@ -13300,6 +13493,7 @@ export default [
   {
     "countryName": "Sao Tome and Principe",
     "countryShortCode": "ST",
+	"countryCallingCode": "+239",
     "regions": [
       {
         "name": "Principe",
@@ -13314,6 +13508,7 @@ export default [
   {
     "countryName": "Saudi Arabia",
     "countryShortCode": "SA",
+	"countryCallingCode": "+966",
     "regions": [
       {
         "name": "'Asir",
@@ -13372,6 +13567,7 @@ export default [
   {
     "countryName": "Senegal",
     "countryShortCode": "SN",
+	"countryCallingCode": "+221",
     "regions": [
       {
         "name": "Dakar",
@@ -13434,6 +13630,7 @@ export default [
   {
     "countryName": "Serbia",
     "countryShortCode": "RS",
+	"countryCallingCode": "+381",
     "regions": [
       {
         "name": "Beograd (Belgrade)",
@@ -13560,6 +13757,7 @@ export default [
   {
     "countryName": "Seychelles",
     "countryShortCode": "SC",
+	"countryCallingCode": "+248",
     "regions": [
       {
         "name": "Anse aux Pins",
@@ -13666,6 +13864,7 @@ export default [
   {
     "countryName": "Sierra Leone",
     "countryShortCode": "SL",
+	"countryCallingCode": "+232",
     "regions": [
       {
         "name": "Eastern",
@@ -13688,6 +13887,7 @@ export default [
   {
     "countryName": "Singapore",
     "countryShortCode": "SG",
+	"countryCallingCode": "+65",
     "regions": [
       {
         "name": "Central Singapore",
@@ -13714,6 +13914,7 @@ export default [
   {
     "countryName": "Sint Maarten (Dutch part)",
     "countryShortCode": "SX",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Sint Maarten"
@@ -13723,6 +13924,7 @@ export default [
   {
     "countryName": "Slovakia",
     "countryShortCode": "SK",
+	"countryCallingCode": "+421",
     "regions": [
       {
         "name": "Banskobystricky",
@@ -13761,6 +13963,7 @@ export default [
   {
     "countryName": "Slovenia",
     "countryShortCode": "SI",
+	"countryCallingCode": "+386",
     "regions": [
       {
         "name": "Ajdovscina",
@@ -14591,6 +14794,7 @@ export default [
   {
     "countryName": "Solomon Islands",
     "countryShortCode": "SB",
+	"countryCallingCode": "+677",
     "regions": [
       {
         "name": "Central",
@@ -14637,6 +14841,7 @@ export default [
   {
     "countryName": "Somalia",
     "countryShortCode": "SO",
+	"countryCallingCode": "+252",
     "regions": [
       {
         "name": "Awdal",
@@ -14715,6 +14920,7 @@ export default [
   {
     "countryName": "South Africa",
     "countryShortCode": "ZA",
+	"countryCallingCode": "+27",
     "regions": [
       {
         "name": "Eastern Cape",
@@ -14757,6 +14963,7 @@ export default [
   {
     "countryName": "South Georgia and South Sandwich Islands",
     "countryShortCode": "GS",
+	"countryCallingCode": "+44",
     "regions": [
       {
         "name": "Bird Island"
@@ -14787,6 +14994,7 @@ export default [
   {
     "countryName": "South Sudan",
     "countryShortCode": "SS",
+	"countryCallingCode": "+211",
     "regions": [
       {
         "name": "Central Equatoria",
@@ -14833,6 +15041,7 @@ export default [
   {
     "countryName": "Spain",
     "countryShortCode": "ES",
+	"countryCallingCode": "+34",
     "regions": [
       {
         "name": "Albacete",
@@ -15047,6 +15256,7 @@ export default [
   {
     "countryName": "Sri Lanka",
     "countryShortCode": "LK",
+	"countryCallingCode": "+94",
     "regions": [
       {
         "name": "Basnahira",
@@ -15089,6 +15299,7 @@ export default [
   {
     "countryName": "Sudan",
     "countryShortCode": "SD",
+	"countryCallingCode": "+249",
     "regions": [
       {
         "name": "Al Bahr al Ahmar",
@@ -15167,6 +15378,7 @@ export default [
   {
     "countryName": "Suriname",
     "countryShortCode": "SR",
+	"countryCallingCode": "+597",
     "regions": [
       {
         "name": "Brokopondo",
@@ -15213,6 +15425,7 @@ export default [
   {
     "countryName": "Swaziland",
     "countryShortCode": "SZ",
+	"countryCallingCode": "+268",
     "regions": [
       {
         "name": "Hhohho",
@@ -15235,6 +15448,7 @@ export default [
   {
     "countryName": "Sweden",
     "countryShortCode": "SE",
+	"countryCallingCode": "+46",
     "regions": [
       {
         "name": "Blekinge",
@@ -15325,6 +15539,7 @@ export default [
   {
     "countryName": "Switzerland",
     "countryShortCode": "CH",
+	"countryCallingCode": "+41",
     "regions": [
       {
         "name": "Aargau",
@@ -15433,8 +15648,9 @@ export default [
     ]
   },
   {
-    "countryName": "Syrian Arab Republic",
+    "countryName": "Syria",
     "countryShortCode": "SY",
+	"countryCallingCode": "+963",
     "regions": [
       {
         "name": "Al Hasakah",
@@ -15497,6 +15713,7 @@ export default [
   {
     "countryName": "Taiwan",
     "countryShortCode": "TW",
+	"countryCallingCode": "+886",
     "regions": [
       {
         "name": "Chang-hua",
@@ -15583,6 +15800,7 @@ export default [
   {
     "countryName": "Tajikistan",
     "countryShortCode": "TJ",
+	"countryCallingCode": "+992",
     "regions": [
       {
         "name": "Dushanbe",
@@ -15605,6 +15823,7 @@ export default [
   {
     "countryName": "Tanzania, United Republic of",
     "countryShortCode": "TZ",
+	"countryCallingCode": "+255",
     "regions": [
       {
         "name": "Arusha",
@@ -15715,6 +15934,7 @@ export default [
   {
     "countryName": "Thailand",
     "countryShortCode": "TH",
+	"countryCallingCode": "+66",
     "regions": [
       {
         "name": "Amnat Charoen",
@@ -16087,6 +16307,7 @@ export default [
   {
     "countryName": "Togo",
     "countryShortCode": "TG",
+	"countryCallingCode": "+228",
     "regions": [
       {
         "name": "Centre",
@@ -16113,6 +16334,7 @@ export default [
   {
     "countryName": "Tokelau",
     "countryShortCode": "TK",
+	"countryCallingCode": "+690",
     "regions": [
       {
         "name": "Atafu"
@@ -16128,6 +16350,7 @@ export default [
   {
     "countryName": "Tonga",
     "countryShortCode": "TO",
+	"countryCallingCode": "+676",
     "regions": [
       {
         "name": "'Eua",
@@ -16154,6 +16377,7 @@ export default [
   {
     "countryName": "Trinidad and Tobago",
     "countryShortCode": "TT",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Arima",
@@ -16220,6 +16444,7 @@ export default [
   {
     "countryName": "Tunisia",
     "countryShortCode": "TN",
+	"countryCallingCode": "+216",
     "regions": [
       {
         "name": "Ariana",
@@ -16318,6 +16543,7 @@ export default [
   {
     "countryName": "Turkey",
     "countryShortCode": "TR",
+	"countryCallingCode": "+90",
     "regions": [
       {
         "name": "Adana",
@@ -16648,6 +16874,7 @@ export default [
   {
     "countryName": "Turkmenistan",
     "countryShortCode": "TM",
+	"countryCallingCode": "+993",
     "regions": [
       {
         "name": "Ahal",
@@ -16678,6 +16905,7 @@ export default [
   {
     "countryName": "Turks and Caicos Islands",
     "countryShortCode": "TC",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Turks and Caicos Islands"
@@ -16687,6 +16915,7 @@ export default [
   {
     "countryName": "Tuvalu",
     "countryShortCode": "TV",
+	"countryCallingCode": "+688",
     "regions": [
       {
         "name": "Funafuti",
@@ -16725,6 +16954,7 @@ export default [
   {
     "countryName": "Uganda",
     "countryShortCode": "UG",
+	"countryCallingCode": "+256",
     "regions": [
       {
         "name": "Abim",
@@ -17051,6 +17281,7 @@ export default [
   {
     "countryName": "Ukraine",
     "countryShortCode": "UA",
+	"countryCallingCode": "+380",
     "regions": [
       {
         "name": "Cherkasy",
@@ -17165,6 +17396,7 @@ export default [
   {
     "countryName": "United Arab Emirates",
     "countryShortCode": "AE",
+	"countryCallingCode": "+971",
     "regions": [
       {
         "name": "Abu Dhabi",
@@ -17199,6 +17431,7 @@ export default [
   {
     "countryName": "United Kingdom",
     "countryShortCode": "GB",
+	"countryCallingCode": "+44",
     "regions": [
       {
         "name": "Avon",
@@ -17637,6 +17870,7 @@ export default [
   {
     "countryName": "United States",
     "countryShortCode": "US",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Alabama",
@@ -17891,6 +18125,7 @@ export default [
   {
     "countryName": "United States Minor Outlying Islands",
     "countryShortCode": "UM",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Baker Island",
@@ -17941,6 +18176,7 @@ export default [
   {
     "countryName": "Uruguay",
     "countryShortCode": "UY",
+	"countryCallingCode": "+598",
     "regions": [
       {
         "name": "Artigas",
@@ -18023,6 +18259,7 @@ export default [
   {
     "countryName": "Uzbekistan",
     "countryShortCode": "UZ",
+	"countryCallingCode": "+998",
     "regions": [
       {
         "name": "Toshkent shahri",
@@ -18085,6 +18322,7 @@ export default [
   {
     "countryName": "Vanuatu",
     "countryShortCode": "VU",
+	"countryCallingCode": "+678",
     "regions": [
       {
         "name": "Malampa",
@@ -18115,6 +18353,7 @@ export default [
   {
     "countryName": "Venezuela, Bolivarian Republic of",
     "countryShortCode": "VE",
+	"countryCallingCode": "+58",
     "regions": [
       {
         "name": "Dependencias Federales",
@@ -18221,6 +18460,7 @@ export default [
   {
     "countryName": "Vietnam",
     "countryShortCode": "VN",
+	"countryCallingCode": "+84",
     "regions": [
       {
         "name": "Đồng Nai",
@@ -18417,8 +18657,9 @@ export default [
     ]
   },
   {
-    "countryName": "Virgin Islands, British",
+    "countryName": "British Virgin Islands",
     "countryShortCode": "VG",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "Anegada",
@@ -18439,8 +18680,9 @@ export default [
     ]
   },
   {
-    "countryName": "Virgin Islands, U.S.",
+    "countryName": "U.S. Virgin Islands",
     "countryShortCode": "VI",
+	"countryCallingCode": "+1",
     "regions": [
       {
         "name": "St. Thomas",
@@ -18459,6 +18701,7 @@ export default [
   {
     "countryName": "Wallis and Futuna",
     "countryShortCode": "WF",
+	"countryCallingCode": "+681",
     "regions": [
       {
         "name": "Alo",
@@ -18477,6 +18720,7 @@ export default [
   {
     "countryName": "Western Sahara",
     "countryShortCode": "EH",
+	"countryCallingCode": "+212",
     "regions": [
       {
         "name": "Es Smara",
@@ -18503,6 +18747,7 @@ export default [
   {
     "countryName": "Yemen",
     "countryShortCode": "YE",
+	"countryCallingCode": "+967",
     "regions": [
       {
         "name": "Abyān",
@@ -18589,6 +18834,7 @@ export default [
   {
     "countryName": "Zambia",
     "countryShortCode": "ZM",
+	"countryCallingCode": "+260",
     "regions": [
       {
         "name": "Central",
@@ -18631,6 +18877,7 @@ export default [
   {
     "countryName": "Zimbabwe",
     "countryShortCode": "ZW",
+	"countryCallingCode": "+263",
     "regions": [
       {
         "name": "Bulawayo",
