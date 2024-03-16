@@ -1,13 +1,15 @@
 {
-  "name": "vue3-country-region-select",
+  "name": "vue3-country-region-callingcode-select",
   "version": "1.0.0",
   "description": "A Country select component and Region select component for Vue 3, forked from the original \"vue-country-region-select\" project (Vue 2). Work together and standalone.",
-  "repository": "https://github.com/briquetech/vue3-country-region-select",
+  "repository": "https://github.com/briquetech/vue3-country-region-callingcode-select",
   "author": "Jay Pagnis <jay.pagnis@brique.in>",
   "license": "MIT",
   "keywords": [
+	"vue3-country-region-callingcode-select",
     "vue-country-region-select",
     "vue-country-state-select",
+	"vue country code select",
     "vue country select",
     "vue region select",
     "vue",
@@ -39,16 +41,16 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-bundle": "vue-cli-service build --target lib --name vueCountryRegionSelect ./src/index.js",
+    "build-bundle": "vue-cli-service build --target lib --name vueCountryRegionCallingCodeSelect ./src/index.js",
     "test": "vue-cli-service test",
     "e2e": "vue-cli-service e2e",
     "lint": "vue-cli-service lint",
     "e2e:open": "vue-cli-service e2e:open"
   },
   "files": [
-    "dist/vueCountryRegionSelect.umd.min.js"
+    "dist/vueCountryRegionCallingCodeSelect.umd.min.js"
   ],
-  "main": "./dist/vueCountryRegionSelect.umd.min.js",
+  "main": "./dist/vueCountryRegionCallingCodeSelect.umd.min.js",
   "dependencies": {
     "vue": "^3.0.0",
     "vue-i18n": "^9.0.0"

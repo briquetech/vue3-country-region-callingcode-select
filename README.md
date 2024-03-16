@@ -1,12 +1,16 @@
 # Vue3-Country-Region-Select ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-Vue3-Country-Region-Select provides a pair of Vue 3 components that will allow you to easily put a country and region dropdown in your project that will work together or standalone. Supports vue-i18n.
+This project provides a pair of Vue 3 components that will allow you to easily put a country and region dropdown in your project that will work together or standalone. Supports vue-i18n.
 
-This project is a fork of the original [Vue-Country-Region-Select](https://github.com/gehrj/vue-country-region-select) for Vue 2 by [Justin Gehr](https://github.com/gehrj). If you are looking for Vue 2 support, that is where you want to look.
+This project is an eventual fork of the following projects:
+1. Original [Vue-Country-Region-Select](https://github.com/gehrj/vue-country-region-select) for Vue 2 by [Justin Gehr](https://github.com/gehrj). If you are looking for Vue 2 support, that is where you want to look.
 
-Credit goes to [Justin Gehr](https://github.com/gehrj) and the other contributors for the creation of the original [Vue-Country-Region-Select](https://github.com/gehrj/vue-country-region-select). This fork just provides compatibility with Vue 3.
+2. Credit goes to [Justin Gehr](https://github.com/gehrj) and the other contributors for the creation of the original [Vue-Country-Region-Select](https://github.com/gehrj/vue-country-region-select). This fork just provides compatibility with Vue 3.
+
+3. Ittai Svidler for the enhanced version (https://github.com/isvidler/vue3-country-region-select/)
+
 ## Installation
-`npm install vue3-country-region-select --save`
+`npm install vue3-country-region-calling-code-select --save`
 
 ## Dependencies 
 Being that these are Vue components you will need to use them inside of Vue.
@@ -15,7 +19,7 @@ The Data for the countries and regions are originally taken from: https://www.np
 However the data set is now located in this project and is available to be edited to suit more countries and regions as you need.
 
 ## Usage
-Here is a sample use case of how you would use vue3-country-region-select in your vue project. You can alternatively store the data in a store somewhere. Country and Region values will be returned in their short code values by default. 
+Here is a sample use case of how you would use vue3-country-region-calling-code-select in your vue project. You can alternatively store the data in a store somewhere. Country and Region values will be returned in their short code values by default. 
 
 Ex. country: 'US' and region: 'IL'
 
@@ -27,10 +31,10 @@ The library registers the components globally so only need to import the library
 ```javascript
 import { createApp } from 'vue'
 import App from './App.vue'
-import vueCountryRegionSelect from 'vue3-country-region-select'
+import vueCountryRegionCallingCodeSelect from 'vue3-country-region-callingcode-select'
 
 const app = createApp(App);
-app.use(vueCountryRegionSelect);
+app.use(vueCountryRegionCallingCodeSelect);
 app.mount('#app');
 ```
 
